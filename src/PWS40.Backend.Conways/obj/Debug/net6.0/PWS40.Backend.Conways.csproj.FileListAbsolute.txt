@@ -1,0 +1,12 @@
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\bin\Debug\net6.0\PWS40.Backend.Conways.deps.json
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\bin\Debug\net6.0\PWS40.Backend.Conways.dll
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\bin\Debug\net6.0\ref\PWS40.Backend.Conways.dll
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\bin\Debug\net6.0\PWS40.Backend.Conways.pdb
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.GeneratedMSBuildEditorConfig.editorconfig
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.AssemblyInfoInputs.cache
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.AssemblyInfo.cs
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.csproj.CoreCompileInputs.cache
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.dll
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\ref\PWS40.Backend.Conways.dll
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.pdb
+D:\Privat\PWS40\Backend\PWS40.Backend\src\PWS40.Backend.Conways\obj\Debug\net6.0\PWS40.Backend.Conways.csproj.AssemblyReference.cache
